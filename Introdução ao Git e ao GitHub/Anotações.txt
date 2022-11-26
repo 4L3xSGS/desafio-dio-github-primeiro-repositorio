@@ -1,0 +1,6 @@
+Introdução ao Git/GitHub
+
+Link para download do Git Bash: https://git-scm.com/downloads
+
+O Git é um sistema de controle de versão distribuído: rastreamento de alterações em qualquer conjunto de arquivos, geralmente usado para coordenar o trabalho entre programadores que desenvolvem código-fonte de forma colaborativa durante o desenvolvimento de software.
+Seus objetivos incluem velocidade, integridade de dados e suporte para fluxos de trabalho não lineares distribuídos (milhares de ramificações paralelas em execução em sistemas diferentes).
